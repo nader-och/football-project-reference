@@ -1,4 +1,4 @@
 # Football Match Analytics System
 
-Reference project for grading.
+project.
 Run with: python main.py
